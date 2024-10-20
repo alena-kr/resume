@@ -148,12 +148,20 @@ margin-bottom: 10px;
 
 .work-list-item{
     font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 24px;
-color: #595959;
-
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
 }
+
+.courses-list-item{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
 .education{
 }
 
@@ -178,13 +186,15 @@ margin-bottom: 10px;
 /* sidebar style */
 .sidebar{
     background-color: #1E2939;
-    padding-top: 40px;
+    padding-top: 5px;
     width: 370px;
 }
 
 .photo{
+    background-color: #1E2939;
     width: 370px;
     margin-bottom: 50px;
+    
 }
 
 .contacts,
@@ -220,7 +230,7 @@ margin-right: 10px;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #565e6a;
+    color: #edf0f4;
 }
 
 .tech-skills-list{
